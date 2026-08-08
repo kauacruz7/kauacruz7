@@ -6,15 +6,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux" />
 </p>
 
----
-
 ### About
 
-I'm a Brazilian developer and entrepreneur focused on technology, software development and building real-world projects.
+I'm a Brazilian developer and entrepreneur interested in technology, software development and digital solutions.
 
-I enjoy turning ideas into practical solutions, learning through projects and constantly improving my skills.
+I enjoy learning by building, solving problems and turning ideas into practical solutions.
 
----
+Currently focused on improving my development skills and expanding my knowledge across different areas of technology.
 
 ### Skills
 
@@ -22,33 +20,29 @@ I enjoy turning ideas into practical solutions, learning through projects and co
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux" />
 </p>
 
----
+### What I do
 
-### Projects
+* Web development
+* Software development
+* Digital solutions
+* Automation and problem solving
+* Project development
+* Continuous learning
 
-#### Zero Grau
+### Interests
 
-A real-world digital project focused on creating a practical solution for a business.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,python,linux,git,github" />
+</p>
 
-**Focus:** Web Development • Business
+Software development, technology, entrepreneurship, automation and learning new tools.
 
----
+### Currently learning
 
-#### Hub do Raiz Craft
-
-A web project created to centralize and organize information and resources related to Raiz Craft.
-
-**Focus:** Web Development • Digital Platform
-
----
-
-#### Cardápio Digital
-
-A digital menu project designed to make product presentation more practical and accessible.
-
-**Focus:** Web Development • Digital Solution
-
----
+* Improving my programming fundamentals
+* Building better and more scalable applications
+* Exploring new technologies
+* Developing better development practices
 
 ### GitHub
 
@@ -61,24 +55,9 @@ A digital menu project designed to make product presentation more practical and 
   <img src="https://streak-stats.demolab.com?user=kauacruz7&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
+### Goals
 
-### Currently
-
-* Building personal and commercial projects
-* Improving my software development skills
-* Learning through practice and real-world projects
-* Exploring new technologies and ideas
-
----
-
-### Contact
-
-<p align="left">
-  <a href="https://github.com/kauacruz7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+Keep learning, build meaningful things and become a better developer every day.
 
 ---
 
