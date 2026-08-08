@@ -1,42 +1,87 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Kauã Cruz
 
-###
+**Developer • Entrepreneur**
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux" />
+</p>
 
-###
+---
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+### About
 
-###
+I'm a Brazilian developer and entrepreneur focused on technology, software development and building real-world projects.
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</div>
+I enjoy turning ideas into practical solutions, learning through projects and constantly improving my skills.
 
-###
+---
+
+### Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux" />
+</p>
+
+---
+
+### Projects
+
+#### Zero Grau
+
+A real-world digital project focused on creating a practical solution for a business.
+
+**Focus:** Web Development • Business
+
+---
+
+#### Hub do Raiz Craft
+
+A web project created to centralize and organize information and resources related to Raiz Craft.
+
+**Focus:** Web Development • Digital Platform
+
+---
+
+#### Cardápio Digital
+
+A digital menu project designed to make product presentation more practical and accessible.
+
+**Focus:** Web Development • Digital Solution
+
+---
+
+### GitHub
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kauacruz7&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauacruz7&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kauacruz7&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+### Currently
+
+* Building personal and commercial projects
+* Improving my software development skills
+* Learning through practice and real-world projects
+* Exploring new technologies and ideas
+
+---
+
+### Contact
+
+<p align="left">
+  <a href="https://github.com/kauacruz7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Build. Learn. Improve.</sub>
+</p>
