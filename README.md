@@ -3,46 +3,47 @@
 **Developer • Entrepreneur**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode,linux" />
 </p>
+
+---
 
 ### About
 
 I'm a Brazilian developer and entrepreneur interested in technology, software development and digital solutions.
 
-I enjoy learning by building, solving problems and turning ideas into practical solutions.
+I enjoy learning through practice, solving problems and turning ideas into useful and practical solutions.
 
-Currently focused on improving my development skills and expanding my knowledge across different areas of technology.
+Currently focused on improving my programming skills and expanding my knowledge across different areas of technology.
 
 ### Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,git,github,vscode,linux" />
 </p>
+
+**Development**
+Web Development · Software Development · Problem Solving · Automation
+
+**Tools**
+Git · GitHub · VS Code · Linux
 
 ### What I do
 
-* Web development
-* Software development
-* Digital solutions
-* Automation and problem solving
-* Project development
-* Continuous learning
-
-### Interests
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,python,linux,git,github" />
-</p>
-
-Software development, technology, entrepreneurship, automation and learning new tools.
+* Develop web applications
+* Build digital solutions
+* Automate repetitive tasks
+* Experiment with new technologies
+* Turn ideas into functional projects
+* Learn through real-world development
 
 ### Currently learning
 
-* Improving my programming fundamentals
-* Building better and more scalable applications
-* Exploring new technologies
-* Developing better development practices
+* TypeScript
+* Software development
+* Web technologies
+* Better development practices
+* New tools and frameworks
 
 ### GitHub
 
@@ -55,9 +56,13 @@ Software development, technology, entrepreneurship, automation and learning new 
   <img src="https://streak-stats.demolab.com?user=kauacruz7&theme=github-dark-blue&hide_border=true" />
 </p>
 
+### Interests
+
+Technology · Software Development · Entrepreneurship · Automation · Innovation
+
 ### Goals
 
-Keep learning, build meaningful things and become a better developer every day.
+Keep learning, build useful things and continuously become a better developer.
 
 ---
 
